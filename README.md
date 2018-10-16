@@ -9,7 +9,7 @@ Developed the whole set of features in esrimap component with a push pin plots b
   - **Area Zoom**
 
 ## Output Format
-<p align='center'><img src="demo-esrimap.jpg"></p>
+<p align='center'><img src="https://github.com/VelmuruganHCL/EsrimapComponent/blob/master/demo-esrimap.JPG"></p>
 
 To preview demo of Esrimap-Component Project, [Click Here]
 
