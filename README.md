@@ -11,7 +11,7 @@ Developed the whole set of features in esrimap component with a push pin plots b
 ## Output Format
 <p align='center'><img src="https://github.com/VelmuruganHCL/EsrimapComponent/blob/master/demo-esrimap.JPG"></p>
 
-To preview demo of Esrimap-Component Project, [Click Here]
+To preview demo of Esrimap-Component Project, [Click Here](https://embed.plnkr.co/X13FuVJir9DNFeARp61d/)
 
 ## Getting Started
 ### Install the Polymer-CLI
