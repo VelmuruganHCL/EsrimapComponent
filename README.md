@@ -44,7 +44,7 @@ This will create builds of your application in the `build/` directory, optimized
 2. Import the esrimap component and include into the html file same as element
 {::nomarkdown}
 
-<!--<esrimap-comp></esrimap-comp>-->
+**<esrimap-comp></esrimap-comp>**
 
 {:/}
  3. Include webloader script and jsargcis script as referred in index.html file.
